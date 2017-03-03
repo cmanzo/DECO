@@ -1,0 +1,4 @@
+*.txt
+!DNAorigami_3motors.txt
+*.m~
+test_*.m

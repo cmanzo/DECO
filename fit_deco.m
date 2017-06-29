@@ -17,7 +17,7 @@ Nbins=handles.numofbins_val;
 
 tole=handles.tole_val;
 
-mini=handles.mini;
+%mini=handles.mini;
 d=handles.data_f;
 
 

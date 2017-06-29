@@ -3,9 +3,7 @@ Matlab GUI to fit the probability distribution function (pdf) of data obtained f
 The data are DEcomposed into a weighted sum of functions f<sub>n</sub> obtained through iterative COnvolutions of a calibration function f<sub>1</sub>. 
 The functional form of f<sub>1</sub> and its parameter(s) must be obtained via an independent calibration. Fitting is performed according to a linear combination of the pdfs f<sub>n</sub> with weights w<sub>n</sub>. 
 
-![alt text]
-(deco.png
-"The DECO GUI")
+![alt text] (deco.png "The DECO GUI")
 
 ## Getting Started
 These instructions will allow you to run the fit on experimental data, or to generate a simulated dataset and then fit it.

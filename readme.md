@@ -25,9 +25,6 @@ Please cite the publication below in all your documents and manuscripts that mad
   publisher={}
 } 
 ```
-
-!["The DECO GUI"](deco.png)
-
 ## Getting Started
 These instructions will allow you to run the fit on experimental data, or to generate a simulated dataset and then fit it.
 
@@ -36,6 +33,8 @@ Matlab  2013a (The Mathworks Inc., www.mathworks,com) or later.
 
 ## Running the code
 Run deco.m in Matlab. The initialized GUI will open. 
+
+!["The DECO GUI"](deco.png)
 
 ### Simulate data
 Set the "Type of pdf" (LogNormal or Exponential) you want to use. Set the function parameters ("param1" and "param2" for LogNormal, only "param1" for Exponential).

@@ -3,6 +3,29 @@ Matlab GUI to fit the probability distribution function (pdf) of data obtained f
 The data are DEcomposed into a weighted sum of functions f<sub>n</sub> obtained through iterative COnvolutions of a calibration function f<sub>1</sub>. 
 The functional form of f<sub>1</sub> and its parameter(s) must be obtained via an independent calibration. Fitting is performed according to a linear combination of the pdfs f<sub>n</sub> with weights w<sub>n</sub>. 
 
+## Reference
+Please cite the publication below in all your documents and manuscripts that made use of the software included in this repository. 
+
+> ### A DNA origami platform for quantifying protein copy number in super-resolution
+> #### Cella Zanacchi, F.,  Manzo, C., Alvarez, A. S., Derr, N. D., Garcia-Parajo, M. F., Lakadamyali, M.
+> #### *Nature Methods* 2017, *14*(8):789--792
+> #### doi: 10.1038/nmeth.4342
+
+#### *BibTeX*
+```
+@article{cella-zanacchi2017natmeth,
+  title={A {DNA} origami platform for quantifying protein copy number in super-resolution},
+  author={Cella Zanacchi, F. and Manzo, C. and Alvarez, A.~S. and Derr, N.~D. and Garcia-Parajo, M.~F. and Lakadamyali, M.},
+  journal={Nature Methods},
+  volume={14},
+  number={8},
+  pages={789--792},
+  year={2017},
+  doi={10.1038/nmeth.4342}
+  publisher={}
+} 
+```
+
 !["The DECO GUI"](deco.png)
 
 ## Getting Started
